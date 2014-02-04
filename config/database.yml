@@ -1,0 +1,17 @@
+development:
+  adapter: postgresql
+  min_messages: warning
+  database: tall_friend_development
+  pool: 5
+  username: <%= `whoami` %>
+  password:
+  host: localhost
+
+test:
+  adapter: postgresql
+  min_messages: warning
+  database: tall_friend_test
+  pool: 5
+  username: <%= `whoami` %>
+  password:
+  host: localhost

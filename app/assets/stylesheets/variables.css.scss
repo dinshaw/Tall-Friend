@@ -1,0 +1,27 @@
+$black:                 #000 !default;
+$grayDarker:            #272B30 !default;
+$grayDark:              #3A3F44 !default;
+$gray:                  #52575C !default;
+$grayLight:             #7A8288 !default;
+$grayLighter:           #BBBFC2 !default;
+$white:                 #fff !default;
+
+
+// Accent colors
+// -------------------------
+$blue:                  #5bc0de !default;
+$blueDark:              #108CBB !default;
+$green:                 #62c462 !default;
+$red:                   #ee5f5b !default;
+$yellow:                #F6D30D !default;
+$orange:                #f89406 !default;
+$pink:                  #c3325f !default;
+$purple:                #7a43b6 !default;
+
+
+// Scaffolding
+// -------------------------
+$bodyBackground:        $grayDarker !default;
+$textColor:             #C8C8C8 !default;
+
+$navbar-default-link-color: $textColor;
